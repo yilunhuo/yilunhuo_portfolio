@@ -8,7 +8,6 @@
 
 ## The grid of line charts
 <div class="flourish-embed flourish-chart" data-src="visualisation/4267148"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 ## Heat chart
 General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. The following is a chart to show the General government debt-to-GDP ratio with years increase for each countries.
 
