@@ -14,5 +14,5 @@ I hope to learn:
 # Portfolio
 Here's where all of my cool data visualizations will go!
 
-# Assignment 2
-<iframe src="https://data.oecd.org/chart/69xr" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69xr" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
+[Assignment 2](/dataviz2.md)
+
