@@ -7,10 +7,12 @@ I enjoy cooking and travelling.
 
 # What I hope to learn
 I hope to learn:
-1. Critique data visualizations by applying critique methodologies.
-2. Develop and present a narrative suitable for a subject audience for a selected topic that is clear, compelling and persuasive.
-3. Conduct user research to ensure data visualizations and the supporting narrative are being communicated effectively.
-4. Apply methods for explaining and presenting data, constructing and telling a story using that data. 
+1. Some useful tools to make the data more clear, compelling and persuasive.
+2. Have a good command of some methods to critique the visualizaed data.
+3. Using data to tell story in a more intuitive way.
 
 # Portfolio
 Here's where all of my cool data visualizations will go!
+
+# Assignment 2
+<iframe src="https://data.oecd.org/chart/69xr" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/69xr" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
