@@ -1,5 +1,5 @@
 # yilunhuo_portfolio
-THis is my public portfolie for the Telling Stories with Data Class at CMU!
+This is my public portfolie for the Telling Stories with Data Class at CMU!
 
 # About me
 Hello! I am Yilun Huo, a student of MISM-16 at Carnegie Mellon University. 
