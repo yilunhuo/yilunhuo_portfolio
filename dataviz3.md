@@ -1,5 +1,3 @@
-[Back to the main page](/README.md)
-
 # Step 1: Original Data Visualization:
 
 ![Image text](example.png)
@@ -32,6 +30,7 @@ Friend 1:
 - "Why there is a 'Death' part in the bottom but I can not find anythin on the chart about this"
 - "It is not clear and intuitive to see the exact number from this chart"
 - "The title said it is the trend in Singapore, however, the chart only shows the trend in the past two weeks"
+- "For people with red-green color blindness, it is difficult to distinguish between red and green"
 
 Friend 2:
 - "The chart seems a little bit simple, and I can not get much information from this chart"
@@ -49,3 +48,7 @@ What I learned:
 # Step five: Build your solution
 <div class="flourish-embed flourish-chart" data-src="visualisation/4345718"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-chart" data-src="visualisation/4346651"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+After sum up the collected feedback, I revised the original draft. First, I changed the original red and green to red and blue, so that people with red-green color blindness can distinguish between the two types of data. In addition, I divided the confirmed cases and recovered cases into two charts, so that the audience can see each case's trend and specific data more clearly. In addition, I deleted the "death" part and explained this situation under the title. In addition, I adopted a combination of histogram and linear graph to emphasize the trend by making the lines of the linear graph thicker, so as to better emphasize the "trend" of the theme.
+
+[Back to the main page](/README.md)
