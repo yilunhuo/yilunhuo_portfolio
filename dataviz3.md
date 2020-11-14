@@ -21,3 +21,29 @@ The audience for this chart is mainly the people live in Singapore, as well as t
 
 ### 3. How successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change?
 In this part, I use Stephen Few’s Data Visualization Effectiveness Profile from Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness, Aesthetics, and Engagement. This method makes me think about the objective and subjective part of a chart. Through the evaluation of these seven dimensions, we can know which part should be improved. For Good Chart, it focuses more on the subjective experience of the analyst, such as 'what do I like', 'dislike', and 'what to change'. Therefore, Stephen's method will be more detailed for us to judge from every aspect of data visualization. But I think both methods are good and effective means for evaluating and improving data visualization. For the missing part, I think it would be better if we can add a dimension about whether the data visualization fits with the topic of the context or not. Because at present, for the 'Engagement' part, it more emphasis on 'Does it lead the audience to learn more about the topic?'. So it would be better if this part could be added.
+
+# Step three: Wireframe a solution
+![Image text](first.png)
+
+# Step four: Test the solution
+I shared my wireframe with two friends, and the following is their feedback on my sketch. 
+
+Friend 1:
+- "Why there is a 'Death' part in the bottom but I can not find anythin on the chart about this"
+- "It is not clear and intuitive to see the exact number from this chart"
+- "The title said it is the trend in Singapore, however, the chart only shows the trend in the past two weeks"
+
+Friend 2:
+- "The chart seems a little bit simple, and I can not get much information from this chart"
+- "I can't find the 'Death' data in the above chart"
+- "It is hard to find the number from the chart, it will be better if you add some baseline"
+- "In the x-axis, you'd better if you write the date with the exact year"
+
+What I learned:
+- The simple line chart here is so simple, and it is not clear to see the exact number in the chart.
+- The 'Death' part in the bottom of the chart could be deleted
+- In the x-axis, I will add the year to the date.
+- The title can be more clear to show this is the trend in the past two weeks.
+- I will divide the confirmed case and the recovered case into two seperate charts.
+
+
