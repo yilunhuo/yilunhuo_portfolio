@@ -15,6 +15,7 @@ I hope to learn:
 Here's where all of my cool data visualizations will go!
 
 [Assignment 2](/dataviz2.md)
+
 [Assignment 3](/dataviz3.md)
 
 
