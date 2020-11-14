@@ -1,9 +1,9 @@
-# Step 1: Original Data Visualization:
+# Step 1: Original Data Visualization
 
 ![Image text](example.png)
 @ Source: [Corona World](https://coronaworld.info/country/Singapore)
 
-This chart is from a website named Corona Wrold. And the data here is the Daily Trends of coronavirus cases in Singapore in the past two weeks, it includes the confirmed cases, recovered, and death data. The reason I choose this data is because I used to study in Singapore, and Singapore is one of the countries that controls the Covid-19 very well. Therefore, by analyzing the data in Singapore we can see how the trend is in Asia, also, it could provide some useful information for the West Countries in controlling the Covid-19 situation.
+This chart is from a website named Corona Wrold. And the data here is the Daily Trends of coronavirus cases in Singapore in the past two weeks, it includes the confirmed cases, recovered, and death data. The reason I choose this data is because some of my friends live in Singapore, and Singapore is one of the countries that controls the Covid-19 very well. Therefore, by analyzing the data in Singapore we can see how the trend is in Asia, also, it could provide some useful information for the West Countries in controlling the Covid-19 situation.
 
 # Step 2: Critique the data visualization
 
