@@ -48,5 +48,4 @@ What I learned:
 
 # Step five: Build your solution
 <div class="flourish-embed flourish-chart" data-src="visualisation/4345718"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/4346651"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
