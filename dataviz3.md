@@ -46,4 +46,7 @@ What I learned:
 - The title can be more clear to show this is the trend in the past two weeks.
 - I will divide the confirmed case and the recovered case into two seperate charts.
 
+# Step five: Build your solution
+<div class="flourish-embed flourish-chart" data-src="visualisation/4345718"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/4346651"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
