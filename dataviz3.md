@@ -50,4 +50,5 @@ What I learned:
 
 After sum up the collected feedback, I revised the original draft. First, I changed the original red and green to red and blue, so that people with red-green color blindness can distinguish between the two types of data. In addition, I divided the confirmed cases and recovered cases into two charts, so that the audience can see each case's trend and specific data more clearly. In addition, I deleted the "death" part and explained this situation under the title. In addition, I adopted a combination of histogram and linear graph to emphasize the trend by making the lines of the linear graph thicker, so as to better emphasize the "trend" of the theme.
 
+
 [Back to the main page](/README.md)
