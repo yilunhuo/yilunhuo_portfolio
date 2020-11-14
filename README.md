@@ -7,9 +7,9 @@ I enjoy cooking and travelling.
 
 # What I hope to learn
 I hope to learn:
-1. Some useful tools to make the data more clear, compelling and persuasive.
-2. Have a good command of some methods to critique the visualizaed data.
-3. Using data to tell story in a more intuitive way.
+- Some useful tools to make the data more clear, compelling and persuasive.
+- Have a good command of some methods to critique the visualizaed data.
+- Using data to tell story in a more intuitive way.
 
 # Portfolio
 Here's where all of my cool data visualizations will go!
