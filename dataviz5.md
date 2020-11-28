@@ -1,5 +1,6 @@
 # 1. Wireframes and storyboards
 In this part, I used Shorthand to further develop the story outline and relevant components visually.
+
 By clicking the [link](https://preview.shorthand.com/ku2cnPZd3PEhcHDA) here to check the wireframe.
 
 # 2. User research and interviews
@@ -18,7 +19,7 @@ The following is my script:
 
 1. Do you have an EV in your family? When did you buy it? 
 
-2. If you did not have an Ev for now, after this story, will you consider buying an EV?
+2. If you did not have an EV for now, after this story, will you consider buying an EV?
 
 3. Does the data visualization here clear and resonable? Is there any part need to be improved?
 
@@ -35,6 +36,26 @@ The following is my script:
 
 
 ### Findings from your interviews and changes you plan on implementing to your visualizations next week to address the issues identified
+#### Part I: Feedback
+
+For each question, the following is the summary for each question
+
+Question 1. Do you have an EV in your family? When did you buy it? 
+I interviewed a total of 6 people, of which five have their own cars, and only one bought an electric car before, which was a Tesla purchased in 2018. This ratio is also echoing the ratio of electric vehicle buyers I listed in the story.
+
+Question 2. If you did not have an EV for now, after this story, will you consider buying an EV?
+
+Question 3. Does the data visualization here clear and resonable? Is there any part need to be improved?
+
+Question 4. Is the topic something interesting to you?
+
+Question 5. Is the logic here resonable? Do you have any suggestions for the order here?
+
+Question 6. Which part of this story do you like most?
+
+Question 7. Which part of this story do you think need to improve most?
+
+Question 8. After the story, do you feel confused in any part?
 
 
 
