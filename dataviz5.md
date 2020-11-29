@@ -68,9 +68,13 @@ Question 7. Which part of this story do you think need to improve most?
 First of all, for the data visualization part, in the third question above I have listed what need to be improved from all the interviews. In addition, some interviewees said that the current three charts is not enough, more charts can be added to make the story more convincing. For example, the first chart of electric vehicle sales can be transformed into a dynamic form to make it more attractive. What is more, one interviewee also suggest me adding a chart about market share of EVs with different brands. In the environment part, the impact of electric vehicles on the environment can also be made in to a chart. In addition, for the 'action' part in the last module, there are too many text, so it is difficult for the audience to get the useful information intuitively at the first time. Some interviewees  also said that for the action part, a part can be added to introduce different types of electric vehicles and different brands currently on the market, so as to give audiences more choices.
 
 
-#### Part II: Whant to change next
+#### Part II: What to change next
 
+1. For the graph. Firstly, on the second page, I will modify the picture on the right part to make the scrolldown picture occupy more space, which can make the structure of the whole page more reasonable. For the two pages "Why people buy electric cars" and "The increase in people's willingness to buy electric cars", the background pictures can be modified to distinguish the background and text parts. In addition, for the copyright issue of the image, the source of the image should be marked under each image.
 
+2. As for the chart and data visualization part. For the current three charts, I will modify the right y-axis to a percentage label in the first chart. Also, I will change the color of the chart to be brighter. For the second chart, I will adjust the color distribution on the map so that more states have colors in different level. And I will replace the label above with an integer. For the third chart, I will adjust its size to make it more intuitive when the audience see it. In addition, I will write the percentage of different types of people directly on the chart. In addition to the current three charts, I will add a few more charts in my story. For example, I will add a chart about market share of EVs with different brands. In the environment part, the impact of electric vehicles on the environment can also be made in to another chart.
+
+3. For the logical aspect. First of all, I will add a module about people's concerns when thinking of buyting an electric vehicle in the second module, and provide solutions for each concern. In addition, I will add a part about some introduction to different types of electric vehicles so that audience will have a clearer understanding of the types of choices they have.
 
 
 [Back to the main page](/README.md)
