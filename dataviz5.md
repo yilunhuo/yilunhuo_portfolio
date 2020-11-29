@@ -31,7 +31,6 @@ The following is my script:
 
 7. Which part of this story do you think need to improve most?
 
-8. After the story, do you feel confused in any part?
 
 
 
@@ -58,11 +57,19 @@ Five interviewees said that they are very interested in the topic of electric ve
 
 Question 5. Is the logic here resonable? Do you have any suggestions for the order here?
 
+All six interviewees said that the logic is reasonable here. The first part introduces the rapid development of the electric vehicle market in recent years, the second part introduces the reasons for choosing electric vehicles and the impact of electric vehicles on the environment, and the third part introduces some of the things that need to be done before buying electric vehicles. The whole story allows the interviewee to have a coherent experience.
+
 Question 6. Which part of this story do you like most?
+
+I received a lot of positive feedback about the images I used. Many interviewees said that my pictures are very attractive and they think my graphs look very enjoyable. In addition, some people said that I used a lot of data in my story, which made the whole story more convincing.
 
 Question 7. Which part of this story do you think need to improve most?
 
-Question 8. After the story, do you feel confused in any part?
+First of all, for the data visualization part, in the third question above I have listed what need to be improved from all the interviews. In addition, some interviewees said that the current three charts is not enough, more charts can be added to make the story more convincing. For example, the first chart of electric vehicle sales can be transformed into a dynamic form to make it more attractive. What is more, one interviewee also suggest me adding a chart about market share of EVs with different brands. In the environment part, the impact of electric vehicles on the environment can also be made in to a chart. In addition, for the 'action' part in the last module, there are too many text, so it is difficult for the audience to get the useful information intuitively at the first time. Some interviewees  also said that for the action part, a part can be added to introduce different types of electric vehicles and different brands currently on the market, so as to give audiences more choices.
+
+
+#### Part II: Whant to change next
+
 
 
 
