@@ -8,7 +8,7 @@ By clicking the [link](https://preview.shorthand.com/ku2cnPZd3PEhcHDA) here to c
 My main audience is people who are interested in buying electric vehicles and want to try a new driving experience.
 
 ### Your approach to identifying representative individuals to interview
-I will interview two types of people. The first type is people some friends or relatives that I know who are interested in cars, and the second type is people who have never expressed interest in cars on social media.The reason I choose these two types is that although people interested in cars will be more interested in my topic, my story also wants to provide useful information to people who want to pursue a greener and healthy lifestyle and driving experience.
+I will interview two types of people. The first type is some friends or relatives that I know who are interested in cars, and the second type is people who have never expressed interest in cars on social media.The reason I choose these two types is that although people interested in cars will be more interested in my topic, my story also wants to provide useful information to people who want to pursue a greener and healthy lifestyle and driving experience.
 
 ### Your interview script
 First of all, I will briefly introduce the main purpose of this interview to the interviewees and thank them for their time.
