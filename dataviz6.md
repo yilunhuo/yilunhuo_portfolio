@@ -21,7 +21,7 @@ The main audience of my story is people who are interested in electric cars and 
 
 The whole project took me three weeks. In the first week, I determined the outline of the story and chose to use electric vehicles as my theme. After that, I conducted a lot of searches on the available dataset and determined that electric vehicles are feasible as the subject. Then I used Infogram to divide the whole story into different modules, roughly determining which parts will be included. In the second week, I used Shorthand to draw the draft, and used Florish to make some of the main charts. After that, I produced my own interview script and interviewed 6 audiences within a week. During the interview, I recorded their opinions and be more clear about the changes that need to be made next. In the third week, I mainly modified based on the feedback I received and improved the entire project. First of all, for the chart part, I added two charts, one is about the emissions of electric vehicles, the other is a questionnaire chart. I also modified the three existing charts to make them clearer and fit the theme more. For the content part, I added an introduction to the types of electric vehicles, and provided users with reference materials in the take action section. In addition, I also annotated the pictures and links that appeared in the story.
 
-My Github repository is [here](https://yilunhuo.github.io/yilunhuo_portfolio/) All the assignments are included on the page here.
+My Github repository is [here](https://yilunhuo.github.io/yilunhuo_portfolio/). All the assignments are included on the page here.
 
 Click [here](https://preview.shorthand.com/ku2cnPZd3PEhcHDA) to the final project.
 
