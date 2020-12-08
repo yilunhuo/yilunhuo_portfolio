@@ -8,7 +8,7 @@ This is the deliverable page of my project.
 5. A few paragraphs summarizing the approach to the project
 
 
-### For Part I, please click [here](https://yilunhuo.github.io/yilunhuo_portfolio/dataviz5.html) to check.
+### For Part II, please click [here](https://yilunhuo.github.io/yilunhuo_portfolio/dataviz5.html) to check.
 1. Sketches and storyboards
 2. User research protocol and findings
 3. Wireframes
@@ -45,6 +45,7 @@ Links:
 2. https://www.statista.com/chart/9117/most-cited-reasons-for-and-against-buying-an-electric-vehicle/
 3. https://www.driving.co.uk/car-clinic/current-upcoming-pure-electric-car-guide-updated/
 4. https://www.energy.gov/eere/electricvehicles/reducing-pollution-electric-vehicles
+5. https://www.topgear.com/car-news/electric/thinking-buying-electric-car-heres-ten-step-guide#1
 
 
 [Back to the main page](/README.md)
