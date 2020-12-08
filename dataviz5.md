@@ -1,3 +1,17 @@
+### For Part I, please click [here](https://yilunhuo.github.io/yilunhuo_portfolio/dataviz4.html) to check.
+1. The project outline
+2. High-level summary of the project
+3. Project structure that outlines the major elements
+4. Short paragraph that documents data sources
+5. A few paragraphs summarizing the approach to the project
+
+### For Part III, please click [here](https://yilunhuo.github.io/yilunhuo_portfolio/dataviz6.html) to check.
+1. Intended audience
+2. Changes have made
+3. Final project
+
+
+
 # 1. Wireframes and storyboards
 In this part, I used Shorthand to further develop the story outline and relevant components visually.
 
