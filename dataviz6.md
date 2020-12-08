@@ -26,6 +26,7 @@ Click [here](https://preview.shorthand.com/ku2cnPZd3PEhcHDA) to the final projec
 
 
 The following are all the references:
+
 Photos:
 1. https://www.theatlantic.com/science/archive/2020/11/what-donald-trump-taught-the-electric-car-industry/617124/
 2. https://www.foxbusiness.com/money/california-adds-electric-vehicle-fees-up-to-175
@@ -33,11 +34,16 @@ Photos:
 4. https://buy-ecars.com/
 5. https://www.driving.co.uk/car-clinic/current-upcoming-pure-electric-car-guide-updated/
 6. https://sports.yahoo.com/news/electric-car-revolution-coming-not-until-2025-103307503.html
+7. https://electrek.co/2020/09/09/lucid-air-electric-sedan-production-design-full-specs/
+8. https://www.stl.cars/blog/2020-aston-martin-rapide-e-release-date-and-performance-specs/
+9. https://electrek.co/2019/08/20/survey-consumers-avoid-evs-myths-range-price-charging/
+10. https://www.qctt.cn/news/780172
 
 Links:
 1. https://inc42.com/features/electric-vehicles-overview-indiae-evs/
 2. https://www.statista.com/chart/9117/most-cited-reasons-for-and-against-buying-an-electric-vehicle/
-3.  https://www.driving.co.uk/car-clinic/current-upcoming-pure-electric-car-guide-updated/
+3. https://www.driving.co.uk/car-clinic/current-upcoming-pure-electric-car-guide-updated/
+4. https://www.energy.gov/eere/electricvehicles/reducing-pollution-electric-vehicles
 
 
 [Back to the main page](/README.md)
