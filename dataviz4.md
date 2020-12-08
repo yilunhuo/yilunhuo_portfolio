@@ -1,3 +1,14 @@
+### For Part II, please click [here](https://yilunhuo.github.io/yilunhuo_portfolio/dataviz5.html) to check.
+1. Sketches and storyboards
+2. User research protocol and findings
+3. Wireframes
+
+### For Part III, please click [here](https://yilunhuo.github.io/yilunhuo_portfolio/dataviz6.html) to check.
+1. Intended audience
+2. Changes have made
+3. Final project
+
+
 # 1. An outline
 ### Project summary: 
 Electric Vehicle Market is growing fast. Try a new way to a more clean energy life.
