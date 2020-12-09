@@ -24,5 +24,5 @@ Here's where all of my cool data visualizations will go!
 
 [Final Project Part III](/dataviz6.md)
 
-[Final Project](/)
+[Final Project](/https://carnegiemellon.shorthandstories.com/try-a-new-lifestyle--/index.html)
 
